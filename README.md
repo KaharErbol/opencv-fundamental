@@ -2,6 +2,8 @@
 
 This repository is a go-to resource for mastering OpenCV fundamentals, the leading open-source library for computer vision and image processing tasks.
 
+![open cv sign](./img/opencv.png)
+
 ## Content
 
 0. Libraries and Modules
