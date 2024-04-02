@@ -7,7 +7,7 @@ This repository is a go-to resource for mastering OpenCV fundamentals, the leadi
 ## Content
 
 0. Libraries and Modules
-1. Basic Image Manipulation
+1. Image Manipulation
 2. Image Annotation
 3. Image Enhancement
 4. Accessing the Camera
@@ -35,3 +35,6 @@ The `imshow()` function in Matplotlib's pyplot module does not display images at
 However, you can control the size of the displayed image by adjusting the aspect ratio and the size of the figure.
 
  NumPy provides support for multi-dimensional arrays (ndarrays), which are used to represent images in OpenCV. These arrays allow for efficient manipulation and processing of image data, such as pixel-wise operations, slicing, and arithmetic operations.
+
+
+## Image Manipulation
